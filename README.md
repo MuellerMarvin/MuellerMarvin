@@ -1,6 +1,6 @@
 ## Hey, I'm Marvin - a software engineering student currently based in Berlin, Germany 🇪🇺🇩🇪✨
 
-I have worked on a wide variety of projects in my time at university.
+I have worked on a wide variety of projects in my time at CODE University.
 Some examples:
 
 - 🌍 Earth Plugin (Popular ChatGPT Plugin, soon to have a webapp frontend) [Link!](https://earth-plugin.com)
