@@ -1,7 +1,6 @@
 ## Welcome
 
-I'm Marvin - a software engineering student currently based in Berlin, Germany 🇪🇺🇩🇪✨
-
+I'm Marvin - a software engineering student currently based in Berlin, Germany 🇪🇺🇩🇪✨<br>
 I have worked on a wide variety of projects in my time at CODE University.
 Some examples:
 
