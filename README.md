@@ -10,4 +10,4 @@ Some examples:
 - 🦜 Biodiversity tracking device, using bird-sounds for species identification
 
 
-<img src="https://wakatime.com/share/@1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a/5b9bf3cf-63c1-4a30-b341-6e077ac0186c.svg" height="400px"/>
+[![wakatime](https://wakatime.com/badge/user/1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a.svg)](https://wakatime.com/@1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a)
