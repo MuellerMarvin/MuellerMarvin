@@ -8,6 +8,7 @@ Some examples:
 - 🌈 Custom 3D [Raytracer in C#](https://github.com/MuellerMarvin/RayTracer-in-CSharp) from scratch
 - 🚴 Citibike Data Analysis (Analyzing 32GB of historical ride-data)
 - 🦜 Biodiversity tracking device, using bird-sounds for species identification
+- 📞 CallAI - a platform where you can create interactive customer service call bots
 
 
 [![wakatime](https://wakatime.com/badge/user/1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a.svg)](https://wakatime.com/@1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a)
