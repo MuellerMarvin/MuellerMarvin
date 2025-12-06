@@ -5,6 +5,7 @@ I have worked on a wide variety of projects in my time at CODE University.
 Some examples:
 
 - 🌍 Earth Plugin (Popular ChatGPT Plugin, soon to have a webapp frontend) [Link!](https://earth-plugin.com)
+- 💻 A [T3 Better Auth Template](https://github.com/MuellerMarvin/t3-better-auth) for accelerated product development 
 - 🌈 Custom 3D [Raytracer in C#](https://github.com/MuellerMarvin/RayTracer-in-CSharp) from scratch
 - 🚴 Citibike Data Analysis (Analyzing 32GB of historical ride-data)
 - 🦜 Biodiversity tracking device, using bird-sounds for species identification
