@@ -27,5 +27,4 @@
 
   ---
 
-  [![wakatime](https://wakatime.com/badge/user/1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a.svg)](https://w
-  akatime.com/@1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a)
+  [![wakatime](https://wakatime.com/badge/user/1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a.svg)](https://wakatime.com/@1d3a6af6-640d-4ea2-b7bb-3ce2ad50e78a)
