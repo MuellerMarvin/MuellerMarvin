@@ -1,6 +1,6 @@
   ## Welcome
 
-  I'm Marvin - a software engineering student based in Berlin, Germany.
+  I'm Marvin - a software engineer based in Berlin, Germany.
 
   Full-stack engineer with a track record of shipping production systems end-to-end.
   TypeScript-first, fast at iteration, driven by building things that actually get used.
