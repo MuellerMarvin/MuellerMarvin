@@ -5,17 +5,17 @@
   Full-stack engineer with a track record of shipping production systems end-to-end.
   TypeScript-first, fast at iteration, driven by building things that actually get used.
 
-  ### Current Projects
+  ### In Development
+
+  - 🌈 [RT One](https://rt-one.app/) - Web-based raytracer with a distributed rendering system, one raytracer - everywhere.
+
+  ### Recent Projects
 
   - 🗺️ [DocMap](https://docmap.app) - Spatial canvas for team documentation, with real-time
   collaboration and repo integration
   - 🌍 [Earth Plugin](https://earth-plugin.com) - Top 30 ChatGPT plugin handling 160,000+ requests
   - 💻 [t3-better-auth](https://github.com/MuellerMarvin/t3-better-auth) - T3 stack template with
   BetterAuth, used by others in production
-
-  ### Coming Soon
-
-  - ✨ RT One - Web-based raytracer with a distributed rendering system, one raytracer - everywhere.
 
   ### Older Projects
 
